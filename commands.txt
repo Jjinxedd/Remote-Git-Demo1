@@ -1,0 +1,24 @@
+pwd- check current location
+
+cd- move through folders
+
+mkdir- create folder
+
+ls- list files
+
+touch- create file
+
+rm- remove a file
+
+
+Repository- folder that stores files/folders related to a project
+
+	Local Repository- Stored in computers
+	Remote Repository- Stored in a server or cloud platform
+
+git init
+	initialize a folder as a main repository
+
+
+git config user.name "<username>" - set username
+git config user.email "<email>" - set email
